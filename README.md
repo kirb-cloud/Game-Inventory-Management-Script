@@ -9,16 +9,12 @@ The program allows you to view, update, and modify items in your inventory, incl
 - Exchanging gemstones for health potions  
 - Removing items from the inventory  
 
----
-
 ## Features
 - **Dynamic Updates:** Add new items and quantities via user input.  
 - **Item Upgrade:** Automatically transforms "shield" into "magic shield."  
 - **Item Exchange:** Converts gemstones into additional health potions.  
 - **Inventory Cleanup:** Removes obsolete items once exchanged.  
 
----
 
-## Example Run
 
 
